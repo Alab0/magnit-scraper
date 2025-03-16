@@ -1,0 +1,7 @@
+aiohttp
+asyncpg
+beautifulsoup4
+pytest
+pytest-asyncio
+aioresponses
+python-decouple
